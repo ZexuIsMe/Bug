@@ -1,0 +1,2 @@
+WebStrom使用React过程中出现：Switch language version to React JSX
+已解决：在WebStrom的  Setting 》 Languages & Frameworks 》 JavaScript 》JavaScript language version 右手下拉列表选择：React JSX 》 Apply > OK
